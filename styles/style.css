@@ -1,0 +1,43 @@
+   @import url("banner.css");
+   @import url("buttons.css");
+   @import url("card");
+   @import url{"footer.css"};
+ 
+@import url('https://fonts.googleapis.com/css2? family=Inter&family=Lora:ital,wght@0,500;0,700;1,400;1,500;1,600;1,700&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=Raleway:ital,wght@0,200;1,100&display=swap');
+@imp
+   a{ text-decoration: none;
+  }
+  body{
+  	font-family: 'Lora', serif;
+  	margin: 0;
+  }
+
+  h1,h2,h3 { 
+  	font-family: 'Raleway', sans-serif;
+  	font-size: 80px;
+  }
+
+  .btn-blue {
+  color : white;
+  background-color: #008080;
+  padding: 8px 16px; 
+  border-radius: 6px;
+  font-weight: bolder;
+  display : block;
+  width: 70%;
+  border: 1px #008080;
+  margin:0 auto;
+
+}
+
+.btn-blue:hover{
+  background-color: white;
+  color : black;
+  transition: 1s;
+}
+.container{
+
+  width: 80%;
+  margin:0 auto;
+}
+

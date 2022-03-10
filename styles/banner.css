@@ -1,0 +1,19 @@
+
+ #banner { 
+
+ height: 100vh ;
+ background-image: url(../images/banner.png);
+ background-size: cover;
+ background-position: center;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: left;
+ text-shadow: 1px 1px 1px black;
+ color: white;
+ font-family: 'Raleway', sans-serif;
+ padding-left:5%;
+ text-align: center;
+
+
+ }
